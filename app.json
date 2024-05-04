@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
+  "name":"MALIBU-MD",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/1037c74b228fe0573feeb.jpg",
+  "repository":"https://github.com/owlai01/Malibu-md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/0f550c4bf2bdcb9b2e9ce.jpg",
       "required":false
        
      },
